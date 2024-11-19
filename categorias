@@ -1,0 +1,39 @@
+<main>
+    <h2>Categorias de Produtos</h2>
+
+    <section>
+        <h3>Frutas e Verduras</h3>
+        <article>
+            <img src="images/banana.jpg" alt="Bananas">
+            <p>Banana - R$ 3,50/kg</p>
+        </article>
+        <article>
+            <img src="images/alface.jpg" alt="Alface">
+            <p>Alface - R$ 2,00/un</p>
+        </article>
+    </section>
+
+    <section>
+        <h3>Produtos Alimentícios Não Perecíveis</h3>
+        <article>
+            <img src="images/arroz.jpg" alt="Arroz">
+            <p>Arroz - R$ 25,00/5kg</p>
+        </article>
+        <article>
+            <img src="images/feijao.jpg" alt="Feijão">
+            <p>Feijão - R$ 10,00/kg</p>
+        </article>
+    </section>
+
+    <section>
+        <h3>Produtos de Higiene e Limpeza</h3>
+        <article>
+            <img src="images/sabao.jpg" alt="Sabão em Pó">
+            <p>Sabão em Pó - R$ 15,00/2kg</p>
+        </article>
+        <article>
+            <img src="images/detergente.jpg" alt="Detergente">
+            <p>Detergente - R$ 2,50/un</p>
+        </article>
+    </section>
+</main>
