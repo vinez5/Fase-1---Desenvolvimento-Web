@@ -1,0 +1,13 @@
+<main>
+    <h2>Serviços Disponíveis</h2>
+
+    <section>
+        <h3>Retirada no Local</h3>
+        <p>Faça seu pedido online e retire no minimercado. Valor: R$ 0,00.</p>
+    </section>
+
+    <section>
+        <h3>Tele-Entrega</h3>
+        <p>Receba seus produtos no conforto de sua casa. Valor: R$ 10,00.</p>
+    </section>
+</main>
